@@ -27,3 +27,18 @@ But might be adaptable to the other Tolino devices as well
 If this script does not yield you a working image double modify the script to use the
 original ramdisk and check if the generated boot.img is matching your update_package/boot.img
 
+
+### Getting root:
+
+Root can be aquired on Android 4 based readern via SuperSU.
+Sadly the SuperSU website is no longer online and archive.org only has the
+download page with the md5sum saved.
+
+https://web.archive.org/web/20191107133328/http://www.supersu.com/download
+
+The zip included in this repo matches this checksum, so lets hope for the best :/
+
+> md5sum SuperSU-v2.82-201705271822.zip 
+8755c94775431f20bd8de368a2c7a179  SuperSU-v2.82-201705271822.zip
+
+For flashing the ![https://github.com/Ryogo-Z/tolino_ntx_6sl_twrp](TWRP port Ryogo-Z) can be used.
