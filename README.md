@@ -45,3 +45,9 @@ The zip included in this repo matches this checksum, so lets hope for the best :
 For flashing the [TWRP port by Ryogo-Z][1] can be used.
 
 [1]: https://github.com/Ryogo-Z/tolino_ntx_6sl_twrp
+
+
+### Removing Ads:
+Have a look at [cweiskes work][2]
+
+[2]: https://cweiske.de/tagebuch/tolino-hotel-mode.htm
